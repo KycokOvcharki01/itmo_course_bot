@@ -8,7 +8,7 @@ theme: /
 
     state: Hello
         intent!: /hello
-        a: Привет привет
+        a: ну здравствуй
         
     state: Weather
         intent!: /weather
