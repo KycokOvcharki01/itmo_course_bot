@@ -12,10 +12,11 @@ theme: /
         
     state: Weather
         intent!: /weather
-        a: hah
+        a: На улице холодно
         
     state: Currency
         intent!: /currency
+        a: Доллар дорогой
 
     state: Bye
         intent!: /пока
