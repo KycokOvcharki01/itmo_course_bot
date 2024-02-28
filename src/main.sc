@@ -25,6 +25,10 @@ theme: /
     state: NoMatch
         intent!: /NoMatch
         a: Я не понял. Вы сказали
+        
+    state: NoNoMatch
+        event!: noMatch
+        a: Я не понял. Вы сказали
 
     state: Match
         event!: match
