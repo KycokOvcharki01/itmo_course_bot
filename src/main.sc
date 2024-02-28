@@ -23,7 +23,7 @@ theme: /
         a: Пока пока
 
     state: NoMatch
-        event!: noMatch
+        intent!: /noMatch
         a: Я не понял. Вы сказали: {{$request.query}}
 
     state: Match
