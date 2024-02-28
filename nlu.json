@@ -27,6 +27,8 @@
     "shared" : false,
     "phrases" : [ {
       "text" : "currency"
+    }, {
+      "text" : "Currency"
     } ],
     "classificationRules" : {
       "refs" : [ ]
@@ -61,6 +63,10 @@
     "shared" : false,
     "phrases" : [ {
       "text" : "hello"
+    }, {
+      "text" : "Hello"
+    }, {
+      "text" : "HELLO"
     } ],
     "classificationRules" : {
       "refs" : [ ]
@@ -73,6 +79,8 @@
     "shared" : false,
     "phrases" : [ {
       "text" : "weather"
+    }, {
+      "text" : "Weather"
     } ],
     "classificationRules" : {
       "refs" : [ ]
@@ -85,6 +93,12 @@
     "shared" : false,
     "phrases" : [ {
       "text" : "NoMatch"
+    }, {
+      "text" : "nomatch"
+    }, {
+      "text" : "Nomatch"
+    }, {
+      "text" : "noMatch"
     } ],
     "classificationRules" : {
       "refs" : [ ]
