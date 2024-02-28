@@ -29,6 +29,10 @@
       "text" : "currency"
     }, {
       "text" : "Currency"
+    }, {
+      "text" : "курс"
+    }, {
+      "text" : "Курс"
     } ],
     "classificationRules" : {
       "refs" : [ ]
@@ -47,17 +51,6 @@
     },
     "priority" : 0
   }, {
-    "path" : "/привет",
-    "enabled" : true,
-    "shared" : false,
-    "phrases" : [ {
-      "text" : "привет"
-    } ],
-    "classificationRules" : {
-      "refs" : [ ]
-    },
-    "priority" : 0
-  }, {
     "path" : "/hello",
     "enabled" : true,
     "shared" : false,
@@ -67,6 +60,10 @@
       "text" : "Hello"
     }, {
       "text" : "HELLO"
+    }, {
+      "text" : "привет"
+    }, {
+      "text" : "Привет"
     } ],
     "classificationRules" : {
       "refs" : [ ]
@@ -81,6 +78,10 @@
       "text" : "weather"
     }, {
       "text" : "Weather"
+    }, {
+      "text" : "погода"
+    }, {
+      "text" : "Погода"
     } ],
     "classificationRules" : {
       "refs" : [ ]
