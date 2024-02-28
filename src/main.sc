@@ -21,10 +21,6 @@ theme: /
     state: Bye
         intent!: /пока
         a: Пока пока
-
-    state: NoMatch
-        intent!: /NoMatch
-        a: Я не понял. Вы сказали
         
     state: NoNoMatch
         event!: noMatch
