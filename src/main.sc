@@ -22,7 +22,7 @@ theme: /
         intent!: /пока
         a: Пока пока
         
-    state: /noMatch
+    state: /NoMatch
         intent!: /NoMatch
         a: Я не понял. Вы сказали
 
