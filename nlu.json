@@ -33,6 +33,10 @@
       "text" : "курс"
     }, {
       "text" : "Курс"
+    }, {
+      "text" : "обмен валют"
+    }, {
+      "text" : "курс рубля к доллару"
     } ],
     "classificationRules" : {
       "refs" : [ ]
@@ -110,6 +114,8 @@
       "text" : "noMatch"
     }, {
       "text" : "паравоз"
+    }, {
+      "text" : "кульбит"
     } ],
     "classificationRules" : {
       "refs" : [ ]
