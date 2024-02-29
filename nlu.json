@@ -104,6 +104,8 @@
       "text" : "Nomatch"
     }, {
       "text" : "noMatch"
+    }, {
+      "text" : "паравоз"
     } ],
     "classificationRules" : {
       "refs" : [ ]
