@@ -23,7 +23,7 @@ theme: /
         a: Пока пока
         
     state: /NoMatch
-        intent!: /NoMatch
+        event!: noMatch
         a: Я не понял. Вы сказали
 
     state: Match
